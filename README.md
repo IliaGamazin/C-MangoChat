@@ -1,15 +1,68 @@
-![10c37e8cc44f1049ad574f4562477e44](https://github.com/user-attachments/assets/919cc0cd-333b-48e5-8901-6035cc38de18)
+# 🥭 Mangochat
 
-Those Who Know...
+**Mangochat** is a fullstack messenger application built in C. Designed to be lightweight, responsive, and feature-rich, Mangochat allows users to chat one-on-one or in groups, share avatars, and enjoy a smooth, socket-based messaging experience.
+<br><br>
+![image](https://github.com/user-attachments/assets/3a6d7fbb-303d-43c9-9e83-981f118896bd) <br>
+<b>P.S.</b> This repo hereby contains the app built during the <strong>Innovation Campus Track-C</strong>, precisely the <strong>UCHAT challenge</strong>.
+Developed in under <strong>40 days</strong>, it may contain <em>atrocious programming war crimes</em> due to the applied pressure.<br>
+Because of the commit names, a serialized version of this repo will remain private for eternity.
 
-![667120b7-2bb4-4131-8dcd-40b5b014fd67](https://github.com/user-attachments/assets/9ff6bc9b-2ca2-414d-8b9f-044ded47be6b)
+---
 
-Those Who Do Not Know...
+## ✨ Features
 
-![T8xptxyHj1k](https://github.com/user-attachments/assets/36b23d15-0078-4adf-bd70-5f97b7808136)
+- 📝 User Registration & Login
+- 💬 Private & Group Chats
+- 🖼️ Avatar Uploads with Image Support
+- 😊 Emoji Support
+- 🔌 Robust Socket-Based Communication
+- 🔁 Automatic Connection & Reconnection Management
+- 🎨 Desktop GUI built with GTK 3
 
-Those Who...
+---
 
-![photo_2024-12-05_19-36-25](https://github.com/user-attachments/assets/b78a39d2-0434-4668-8f11-35152c9c3255)
+## 🛠️ Tech Stack
 
-Those Who Know That Calc Is Short For Calculator (I Am Just Using The Slang)...
+- **Frontend**: GTK 3 (C)
+- **Backend**: C with SQLite & cJSON
+- **Networking**: POSIX Sockets
+- **Database**: SQLite
+- **Data Serialization**: cJSON
+
+---
+
+## 👥 Development Team
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ovalkonia">
+        <img src="https://github.com/ovalkonia.png" width="100px;" alt="ovalkonia"/>
+        <br /><sub><b>@ovalkonia</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DjDreadNautilus">
+        <img src="https://github.com/DjDreadNautilus.png" width="100px;" alt="DjDreadNautilus"/>
+        <br /><sub><b>@DjDreadNautilus</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/niykuta">
+        <img src="https://github.com/niykuta.png" width="100px;" alt="niykuta"/>
+        <br /><sub><b>@niykuta</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IliaGamazin">
+        <img src="https://github.com/IliaGamazin.png" width="100px;" alt="IliaGamazin"/>
+        <br /><sub><b>@IliaGamazin</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📦 How to Build
+
