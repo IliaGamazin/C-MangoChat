@@ -65,4 +65,8 @@ Because of the commit names, a serialized version of this repo will remain priva
 ---
 
 ## 📦 How to Build
+```bash
+git clone https://github.com/IliaGamazin/C-MangoChat.git
+cd C-MangoChat
+make
 
