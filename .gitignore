@@ -1,0 +1,14 @@
+.DS_Store
+
+utils/obj
+utils/utils.a
+
+server/vault
+server/obj
+server/mangodb.db
+server/deploy
+server/uchat_server
+
+client/obj
+client/uchat
+

@@ -1,0 +1,25 @@
+#ifndef REAL_TALK_TYPE_H
+#define REAL_TALK_TYPE_H
+
+// RealTalkType
+
+typedef enum e_RealTalkType {
+    USER_REGISTER,
+    USER_LOGIN,
+    USER_SET_AVATAR,
+    USER_GET_AVATAR,
+    USER_SET_USERNAME,
+    USER_SET_PASSWORD,
+    USER_CHAT_CREATE,
+    USER_CHAT_GET,
+    USER_CHATS_GET,
+    USER_HOMIE_GET,
+    USER_HOMIES_GET,
+    USER_MESSAGE_CREATE,
+    USER_MESSAGE_GET,
+    USER_MESSAGES_GET,
+    USER_MESSAGE_EDIT,
+} RealTalkType;
+
+#endif
+
